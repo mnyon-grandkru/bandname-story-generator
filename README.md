@@ -1,5 +1,7 @@
 # Bandname Story Generator
 
+[![Node.js Package](https://github.com/mnyon-grandkru/bandname-story-generator/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/mnyon-grandkru/bandname-story-generator/actions/workflows/npm-publish-github-packages.yml)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
