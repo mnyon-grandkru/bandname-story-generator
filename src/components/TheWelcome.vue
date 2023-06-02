@@ -8,11 +8,9 @@ import CassetteIcon from './icons/IconCassette.vue'
     <template #icon>
       <CassetteIcon />
     </template>
-    <template #heading>Documentation</template>
+    <template #heading>Band Name</template>
 
-    Vue’s
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
-    provides you with all information you need to get started.
+    <md-outlined-field> </md-outlined-field>
   </WelcomeItem>
 
   <WelcomeItem>

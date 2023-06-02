@@ -9,7 +9,6 @@ import HelloWorld from './components/HelloWorld.vue'
     <p><img alt="Vinyl Record" class="logo" src="https://pngimg.com/uploads/vinyl/vinyl_PNG12.png" width="125" height="125" /></p>
     <div class="wrapper">
       <HelloWorld msg="Bandname Generator" />
-
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
