@@ -1,16 +1,12 @@
 <script setup>
 import WelcomeItem from './WelcomeItem.vue'
-import DocumentationIcon from './icons/IconDocumentation.vue'
-import ToolingIcon from './icons/IconTooling.vue'
 import CassetteIcon from './icons/IconCassette.vue'
-import CommunityIcon from './icons/IconCommunity.vue'
-import SupportIcon from './icons/IconSupport.vue'
 </script>
 
 <template>
   <WelcomeItem>
     <template #icon>
-      <DocumentationIcon />
+      <CassetteIcon />
     </template>
     <template #heading>Documentation</template>
 
@@ -21,7 +17,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
   <WelcomeItem>
     <template #icon>
-      <ToolingIcon />
+      <CassetteIcon />
     </template>
     <template #heading>Tooling</template>
 
@@ -55,7 +51,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
   <WelcomeItem>
     <template #icon>
-      <CommunityIcon />
+      <CassetteIcon />
     </template>
     <template #heading>Community</template>
 
@@ -73,7 +69,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
   <WelcomeItem>
     <template #icon>
-      <SupportIcon />
+      <CassetteIcon />
     </template>
     <template #heading>Support Vue</template>
 
